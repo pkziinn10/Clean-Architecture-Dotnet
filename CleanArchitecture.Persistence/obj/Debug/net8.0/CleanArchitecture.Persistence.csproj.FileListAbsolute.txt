@@ -1,0 +1,12 @@
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/bin/Debug/net8.0/CleanArchitecture.Persistence.deps.json
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/bin/Debug/net8.0/CleanArchitecture.Persistence.dll
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/bin/Debug/net8.0/CleanArchitecture.Persistence.pdb
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/CleanArchitecture.Persistence.AssemblyInfo.cs
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/CleanArchitecture.Persistence.sourcelink.json
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/CleanArchitecture.Persistence.dll
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/refint/CleanArchitecture.Persistence.dll
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/CleanArchitecture.Persistence.pdb
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Persistence/obj/Debug/net8.0/ref/CleanArchitecture.Persistence.dll

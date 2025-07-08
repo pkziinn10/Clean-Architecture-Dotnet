@@ -1,0 +1,12 @@
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.deps.json
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.sourcelink.json
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.dll
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/refint/CleanArchitecture.Domain.dll
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.pdb
+/home/pk/projects/C#/Clean-Architecture/CleanArchitecture.Domain/obj/Debug/net8.0/ref/CleanArchitecture.Domain.dll
