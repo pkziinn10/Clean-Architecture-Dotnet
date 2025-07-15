@@ -1,5 +1,6 @@
 using CleanArchitecture.Application.UseCases.CreateUser;
 using CleanArchitecture.Application.UseCases.GetAllUser;
+using CleanArchitecture.Application.UseCases.UpdateUser;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -28,5 +29,16 @@ public class UsersController : ControllerBase
     {
         var userId = await _mediator.Send(request);
         return Ok(userId);
+    }
+    
+    [HttpPut("{id}")]
+    public async Task<ActionResult<UpdateUserResponse>>
+        Update(Guid id, UpdateUserRequest request, CancellationToken cancellationToken)
+    {
+        if (id != request.Id)
+            return BadRequest();
+
+        var response = await _mediator.Send(request, cancellationToken);
+        return Ok(response);
     }
 }
