@@ -1,3 +1,4 @@
+using CleanArchitecture.API.Extensions;
 using CleanArchitecture.Application.Services;
 using Persistence;
 using Persistence.Context;
@@ -7,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.ConfigurePersistenceApp(builder.Configuration);
 builder.Services.ConfigureApplicationApp();
+builder.Services.ConfigureCorsPolicy();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
