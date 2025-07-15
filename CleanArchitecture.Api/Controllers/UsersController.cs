@@ -1,4 +1,5 @@
 using CleanArchitecture.Application.UseCases.CreateUser;
+using CleanArchitecture.Application.UseCases.DeleteUser;
 using CleanArchitecture.Application.UseCases.GetAllUser;
 using CleanArchitecture.Application.UseCases.UpdateUser;
 using MediatR;
@@ -39,6 +40,19 @@ public class UsersController : ControllerBase
             return BadRequest();
 
         var response = await _mediator.Send(request, cancellationToken);
+        return Ok(response);
+    }
+    
+    [HttpDelete("{id}")]
+    public async Task<ActionResult> Delete(Guid? id,
+        CancellationToken cancellationToken)
+    {
+        if (id is null)
+            return BadRequest();
+
+        var deleteUserRequest = new DeleteUserRequest(id.Value);
+
+        var response = await _mediator.Send(deleteUserRequest, cancellationToken);
         return Ok(response);
     }
 }
